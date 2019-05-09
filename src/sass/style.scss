@@ -1,0 +1,16 @@
+$bgColor:tomato;
+
+body{
+    background:$bgColor;
+    margin: 0 auto;
+    // width: 1280px;
+    h1{
+        background: lightgrey;
+        padding: 1rem;
+        text-align: center;
+        font-family: sans-serif;
+        font-size:3rem;
+        color: black;
+        text-transform: uppercase;
+    }
+}
